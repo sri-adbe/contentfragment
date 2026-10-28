@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/sri-adbe/contentfragment/main"
+    url: "https://author-p232672-e234706.adobeaemcloud.com/bin/franklin.delivery/sri-adbe/contentfragment/main"
     type: "markup"
     suffix: ".html"
